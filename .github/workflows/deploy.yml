@@ -127,3 +127,23 @@ jobs:
           projectName: ${{ env.CLOUDFLARE_PROJECT_NAME }}
           directory: ./.upload
           branch: ${{ env.MAIN_BRANCH }}
+
+      - name: Generate combined SmartGit markdown
+        run: |
+          find branches/${{ env.LATEST_BRANCH }}/src/SmartGit -type f -name '*.md' | sort | tee md_files.txt
+          output="smartgit-lastest-all.md"
+          :> "$output"
+          while IFS= read -r file; do
+            rel_path="${file#branches/${{ env.LATEST_BRANCH }}/src/SmartGit/}"
+            url="https://docs.syntevo.com/SmartGit/${rel_path%.md}"
+            echo "$url" >> "$output"
+            echo >> "$output"
+            cat "$file" >> "$output"
+            echo >> "$output"
+          done < md_files.txt
+
+      - name: Upload SmartGit markdown artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: smartgit-lastest-all.md
+          path: smartgit-lastest-all.md
