@@ -2,493 +2,493 @@
 
 ## Standard Window Actions
 
-1. **Abort**
-2. **About SmartGit**
-3. **Access Hosting Providers**
-4. **Add Branch...** - Add a new branch for the current commit.
-5. **Add Tag...** - Add a new tag for the current commit.
-6. **Add Worktree...**
-7. **Add or Create...** - Add or create a new repository.
-8. **Add...**
-9. **All files**
-10. **All files, excl. ignored**
-11. **All files, incl. ignored**
-12. **All my branches**
-13. **Apply Stash...** - Reapply local changes from a stash.
-14. **Blame** - Show a blame (annotated) view of the selected file.
-15. **Branches**
-16. **Changed files**
-17. **Check Out...** - Check out an existing commit.
-18. **Check for Latest Build...**
-19. **Check for New Version...**
-20. **Cherry-Pick...** - Cherry-pick commits from other branches.
-21. **Clone...** - Clone a new repository.
-22. **Close Repository**
-23. **Commit**
-24. **Compare**
-25. **Compare with Working Tree...**
-26. **Configure Features...**
-27. **Conflict Solver**
-28. **Contact Support...**
-29. **Continue**
-30. **Copy ID**
-31. **Copy Message**
-32. **Copy Name**
-33. **Copy Path**
-34. **Copy Relative Path**
-35. **Create Heap Dump**
-36. **Create Periodical Thread Dumps**
-37. **Delete...** - Delete the selected local files or directory.
-38. **Discard...** - Discard local changes.
-39. **Drop Stash...** - Drop one or more stashes from the repository.
-40. **Edit Author...**
-41. **Edit Ignore File...**
-42. **Edit Message...**
-43. **Exit**
-44. **Feature Requests**
-45. **Fetch** - Fetch commits from current remote repository.
-46. **Fetch All** - Fetch commits from all remote repositories.
-47. **Files**
-48. **Find Command...**
-49. **Find Object...**
-50. **Finish Feature...** - Finish the current feature branch.
-51. **Fix Case-Change...**
-52. **Full Screen**
-53. **Graph**
-54. **Ignore...** - Mark unversioned local files/directories to be ignored.
-55. **Index Editor** - Edit the Index state of the selected file, e.g. to decide which lines should be staged.
-56. **Install...**
-57. **Integrate Main** - Integrate latest changes from the main branch into the current feature branch.
-58. **Investigate** - Investigate history line-wise with DeepGit.
-59. **License Agreement**
-60. **Lock**
-61. **Log** - Show the history for selected file or directory.
-62. **Log File Monitor Events**
-63. **Log File Monitor State**
-64. **Log Open Repositories**
-65. **Mark HEAD as Bad**
-66. **Mark HEAD as Good**
-67. **Mark Resolved**
-68. **Mark top commits with @ai marker**
-69. **Maximize**
-70. **Merge...** - Merge changes from other branches.
-71. **Minimize**
-72. **Modify...**
-73. **Move or Rename...**
-74. **New Window**
-75. **Online Documentation**
-76. **Only current branch (HEAD)**
-77. **Open a Submodule** - Open the submodule in a new tab.
-78. **Open this Submodule**
-79. **Preferences**
-80. **Prune Obsolete Worktrees...**
-81. **Prune...**
-82. **Pull...** - Fetch commits from a remote repository and (optionally) integrate them with possible local commits.
-83. **Push** - Push local commits to the remote origin repository.
-84. **Push Up To...**
-85. **Rebase Interactive From...**
-86. **Rebase...** - Apply commits from your current branch to the selected commit.
-87. **Recreate Conflict**
-88. **Refresh** - Refresh the log view.
-89. **Register...**
-90. **Remove Worktree...**
-91. **Remove...** - Remove selected files or directories from repository.
-92. **Rename Stash...**
-93. **Repositories**
-94. **Repository**
-95. **Rerun Thoroughly**
-96. **Reset**
-97. **Reset Advanced...** - Reset current branch (HEAD) to another commit and keep the difference in Index or Working Tree.
-98. **Reset...** - Reset current branch (HEAD) to another commit.
-99. **Reveal**
-100. **Revert...** - Undo the changes of an existing commit by 'reverse' merging it.
-101. **Rollback To...**
-102. **Run GC**
-103. **Run Garbage Collector...**
-104. **Save As...**
-105. **Search for Repositories...** - Search for existing repositories.
-106. **Select Child Commit**
-107. **Select Parent Commit**
-108. **Settings...**
-109. **Show Changes** - Open the file compare for the selected file.
-110. **Show History** - Show the history view.
-111. **Show Local Changes**
-112. **Show Log Window**
-113. **Show Working Tree Window**
-114. **SmartGit Website**
-115. **Split...**
-116. **Squash...**
-117. **Stage** - Store working tree files in the index to prepare the next commit.
-118. **Start Endless Command**
-119. **Start Feature...** - Start a new feature branch.
-120. **Start Periodical Refreshing**
-121. **Start...**
-122. **Starting Tracing Refreshing**
-123. **Stash All...** - Stash current local changes.
-124. **Stash Selection...**
-125. **Step**
-126. **Swap**
-127. **Take Ours**
-128. **Take Theirs**
-129. **Toggle 'Assume Unchanged'**
-130. **Toggle 'Skip Worktree'**
-131. **Track...**
-132. **Try Commit**
-133. **Undo Last Commit...**
-134. **Unlock**
-135. **Unstage** - Remove staged changes from index.
-136. **Use Message for Commit**
-137. **User**
+1. **Abort** - [Branch Operations](Manual/GUI/Branch/index.md)
+2. **About SmartGit** - [Main Windows](Manual/GUI/Main-Windows.md)
+3. **Access Hosting Providers** - [Integrated Cloning](Manual/Integrations/Integrated-Cloning.md)
+4. **Add Branch...** - Add a new branch for the current commit. [Manipulating Branches and Tags](Manual/GUI/Branch/Manipulating-branches-tags.md)
+5. **Add Tag...** - Add a new tag for the current commit. [Manipulating Branches and Tags](Manual/GUI/Branch/Manipulating-branches-tags.md)
+6. **Add Worktree...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+7. **Add or Create...** - Add or create a new repository. [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+8. **Add...** - [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+9. **All files** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+10. **All files, excl. ignored** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+11. **All files, incl. ignored** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+12. **All my branches** - [Branches View](Manual/GUI/Branches-view.md)
+13. **Apply Stash...** - Reapply local changes from a stash. [Stash](Manual/GUI/Stash.md)
+14. **Blame** - Show a blame (annotated) view of the selected file. [Blame](Manual/GUI/Blame.md)
+15. **Branches** - [Branches View](Manual/GUI/Branches-view.md)
+16. **Changed files** - [Changes View](Manual/GUI/Changes-View.md)
+17. **Check Out...** - Check out an existing commit. [Check Out](Manual/GUI/Branch/Check-Out.md)
+18. **Check for Latest Build...** - [Main Windows](Manual/GUI/Main-Windows.md)
+19. **Check for New Version...** - [Main Windows](Manual/GUI/Main-Windows.md)
+20. **Cherry-Pick...** - Cherry-pick commits from other branches. [Cherry-Pick](Manual/GUI/Branch/Cherry-Pick.md)
+21. **Clone...** - Clone a new repository. [Clone](Manual/GUI/Repository/Clone.md)
+22. **Close Repository** - [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+23. **Commit** - [Committing](Manual/GUI/Committing.md)
+24. **Compare** - [Changes View](Manual/GUI/Changes-View.md)
+25. **Compare with Working Tree...** - [Changes View](Manual/GUI/Changes-View.md)
+26. **Configure Features...** - [Preferences](Manual/GUI/Preferences/index.md)
+27. **Conflict Solver** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+28. **Contact Support...** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+29. **Continue** - [Branch Operations](Manual/GUI/Branch/index.md)
+30. **Copy ID** - [Commit View](Manual/GUI/Commit-View.md)
+31. **Copy Message** - [Commit View](Manual/GUI/Commit-View.md)
+32. **Copy Name** - [Main Windows](Manual/GUI/Main-Windows.md)
+33. **Copy Path** - [Main Windows](Manual/GUI/Main-Windows.md)
+34. **Copy Relative Path** - [Main Windows](Manual/GUI/Main-Windows.md)
+35. **Create Heap Dump** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+36. **Create Periodical Thread Dumps** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+37. **Delete...** - Delete the selected local files or directory. [Moving and Deleting](Manual/GUI/Moving-Deleting.md)
+38. **Discard...** - Discard local changes. [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+39. **Drop Stash...** - Drop one or more stashes from the repository. [Stash](Manual/GUI/Stash.md)
+40. **Edit Author...** - [Committing](Manual/GUI/Committing.md)
+41. **Edit Ignore File...** - [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+42. **Edit Message...** - [Committing](Manual/GUI/Committing.md)
+43. **Exit** - [Main Windows](Manual/GUI/Main-Windows.md)
+44. **Feature Requests** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+45. **Fetch** - Fetch commits from current remote repository. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+46. **Fetch All** - Fetch commits from all remote repositories. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+47. **Files** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+48. **Find Command...** - [Commands](Manual/GUI/Preferences/Commands.md)
+49. **Find Object...** - [Graph View](Manual/GUI/Graph-View.md)
+50. **Finish Feature...** - Finish the current feature branch. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+51. **Fix Case-Change...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+52. **Full Screen** - [Main Windows](Manual/GUI/Main-Windows.md)
+53. **Graph** - [Graph View](Manual/GUI/Graph-View.md)
+54. **Ignore...** - Mark unversioned local files/directories to be ignored. [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+55. **Index Editor** - Edit the Index state of the selected file, e.g. to decide which lines should be staged. [Stage, Unstage and Index Editor](Manual/GUI/Stage-Unstage-IndexEditor.md)
+56. **Install...** - [Installation and Files](Manual/Installation/Installation-and-Files.md)
+57. **Integrate Main** - Integrate latest changes from the main branch into the current feature branch. [Feature Flow](Manual/DevelopmentProcesses/Feature-Flow.md)
+58. **Investigate** - Investigate history line-wise with DeepGit. [Investigate](Manual/GUI/Investigate.md)
+59. **License Agreement** - [Licensing](Manual/Licensing/index.md)
+60. **Lock** - [Git LFS](Manual/Integrations/Git-LFS.md)
+61. **Log** - Show the history for selected file or directory. [Log](Manual/GUI/Log.md)
+62. **Log File Monitor Events** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+63. **Log File Monitor State** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+64. **Log Open Repositories** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+65. **Mark HEAD as Bad** - [Bisect](Manual/GUI/Bisect.md)
+66. **Mark HEAD as Good** - [Bisect](Manual/GUI/Bisect.md)
+67. **Mark Resolved** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+68. **Mark top commits with @ai marker** - [AI Commit Annotations](Manual/GUI/AI-Commit-Annotations.md)
+69. **Maximize** - [Main Windows](Manual/GUI/Main-Windows.md)
+70. **Merge...** - Merge changes from other branches. [Merge](Manual/GUI/Branch/Merge.md)
+71. **Minimize** - [Main Windows](Manual/GUI/Main-Windows.md)
+72. **Modify...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+73. **Move or Rename...** - [Moving and Deleting](Manual/GUI/Moving-Deleting.md)
+74. **New Window** - [Main Windows](Manual/GUI/Main-Windows.md)
+75. **Online Documentation** - [Main Windows](Manual/GUI/Main-Windows.md)
+76. **Only current branch (HEAD)** - [Graph View](Manual/GUI/Graph-View.md)
+77. **Open a Submodule** - Open the submodule in a new tab. [Submodules](Manual/GUI/Repository/Submodules.md)
+78. **Open this Submodule** - [Submodules](Manual/GUI/Repository/Submodules.md)
+79. **Preferences** - [Preferences](Manual/GUI/Preferences/index.md)
+80. **Prune Obsolete Worktrees...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+81. **Prune...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+82. **Pull...** - Fetch commits from a remote repository and (optionally) integrate them with possible local commits. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+83. **Push** - Push local commits to the remote origin repository. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+84. **Push Up To...** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+85. **Rebase Interactive From...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+86. **Rebase...** - Apply commits from your current branch to the selected commit. [Rebase](Manual/GUI/Branch/Rebase.md)
+87. **Recreate Conflict** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+88. **Refresh** - Refresh the log view. [Log](Manual/GUI/Log.md)
+89. **Register...** - [Licensing](Manual/Licensing/index.md)
+90. **Remove Worktree...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+91. **Remove...** - Remove selected files or directories from repository. [Moving and Deleting](Manual/GUI/Moving-Deleting.md)
+92. **Rename Stash...** - [Stash](Manual/GUI/Stash.md)
+93. **Repositories** - [Repositories View](Manual/GUI/Repositories-View.md)
+94. **Repository** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+95. **Rerun Thoroughly** - [Main Windows](Manual/GUI/Main-Windows.md)
+96. **Reset** - [Branch Operations](Manual/GUI/Branch/index.md)
+97. **Reset Advanced...** - Reset current branch (HEAD) to another commit and keep the difference in Index or Working Tree. [Branch Operations](Manual/GUI/Branch/index.md)
+98. **Reset...** - Reset current branch (HEAD) to another commit. [Branch Operations](Manual/GUI/Branch/index.md)
+99. **Reveal** - [Main Windows](Manual/GUI/Main-Windows.md)
+100. **Revert...** - Undo the changes of an existing commit by 'reverse' merging it. [Revert](Manual/GUI/Branch/Revert.md)
+101. **Rollback To...** - [Branch Operations](Manual/GUI/Branch/index.md)
+102. **Run GC** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+103. **Run Garbage Collector...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+104. **Save As...** - [Main Windows](Manual/GUI/Main-Windows.md)
+105. **Search for Repositories...** - Search for existing repositories. [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+106. **Select Child Commit** - [Graph View](Manual/GUI/Graph-View.md)
+107. **Select Parent Commit** - [Graph View](Manual/GUI/Graph-View.md)
+108. **Settings...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+109. **Show Changes** - Open the file compare for the selected file. [Changes View](Manual/GUI/Changes-View.md)
+110. **Show History** - Show the history view. [Log](Manual/GUI/Log.md)
+111. **Show Local Changes** - [Changes View](Manual/GUI/Changes-View.md)
+112. **Show Log Window** - [Log Window](Manual/GUI/Log-Window.md)
+113. **Show Working Tree Window** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+114. **SmartGit Website** - [Main Windows](Manual/GUI/Main-Windows.md)
+115. **Split...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+116. **Squash...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+117. **Stage** - Store working tree files in the index to prepare the next commit. [Stage, Unstage and Index Editor](Manual/GUI/Stage-Unstage-IndexEditor.md)
+118. **Start Endless Command** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+119. **Start Feature...** - Start a new feature branch. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+120. **Start Periodical Refreshing** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+121. **Start...** - [Bisect](Manual/GUI/Bisect.md)
+122. **Starting Tracing Refreshing** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+123. **Stash All...** - Stash current local changes. [Stash](Manual/GUI/Stash.md)
+124. **Stash Selection...** - [Stash](Manual/GUI/Stash.md)
+125. **Step** - [Bisect](Manual/GUI/Bisect.md)
+126. **Swap** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+127. **Take Ours** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+128. **Take Theirs** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+129. **Toggle 'Assume Unchanged'** - [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+130. **Toggle 'Skip Worktree'** - [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+131. **Track...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+132. **Try Commit** - [Committing](Manual/GUI/Committing.md)
+133. **Undo Last Commit...** - [Committing](Manual/GUI/Committing.md)
+134. **Unlock** - [Git LFS](Manual/Integrations/Git-LFS.md)
+135. **Unstage** - Remove staged changes from index. [Stage, Unstage and Index Editor](Manual/GUI/Stage-Unstage-IndexEditor.md)
+136. **Use Message for Commit** - [Committing](Manual/GUI/Committing.md)
+137. **User** - [Preferences](Manual/GUI/Preferences/index.md)
 
 ## Log Window Actions
 
-1. **Abort**
-2. **About SmartGit**
-3. **Access Hosting Providers**
-4. **Add Branch...** - Add a new branch for the current commit.
-5. **Add Comment...**
-6. **Add Group...**
-7. **Add Tag...** - Add a new tag for the current commit.
-8. **Add Worktree...**
-9. **Add or Create...** - Add or create a new repository.
-10. **Add...**
-11. **Apply Stash...** - Reapply local changes from a stash.
-12. **Blame** - Show a blame (annotated) view of the selected file.
-13. **Branches**
-14. **Changes**
-15. **Check Out...** - Check out an existing commit.
-16. **Check for Latest Build...**
-17. **Check for New Version...**
-18. **Cherry-Pick...** - Cherry-pick commits from other branches.
-19. **Clean Working Tree...**
-20. **Clear Output** - Clear output pane.
-21. **Clone...** - Clone a new repository.
-22. **Close**
-23. **Close Repository**
-24. **Comments**
-25. **Commit**
-26. **Commit...** - Commit local changes.
-27. **Compare**
-28. **Compare with Working Tree...**
-29. **Configure Toolbar...**
-30. **Configure...**
-31. **Conflict Solver**
-32. **Contact Support...**
-33. **Continue**
-34. **Copy ID**
-35. **Copy Message**
-36. **Copy Name**
-37. **Copy Path**
-38. **Copy Relative Path**
-39. **Create Heap Dump**
-40. **Create Periodical Thread Dumps**
-41. **Create Pull Request...**
-42. **Deactivate...**
-43. **Debug Log**
-44. **Deinit...**
-45. **Delete...**
-46. **Discard...** - Discard local changes.
-47. **Drop Stash...** - Drop one or more stashes from the repository.
-48. **Dump Database**
-49. **Edit Author...**
-50. **Edit File**
-51. **Edit Ignore File...**
-52. **Edit Message...**
-53. **Exit**
-54. **Fast-Forward Merge**
-55. **Feature Requests**
-56. **Fetch** - Fetch commits from current remote repository.
-57. **Fetch All** - Fetch commits from all remote repositories.
-58. **Fetch More...**
-59. **Files**
-60. **Filter Commits**
-61. **Filter Files**
-62. **Find Command...**
-63. **Find Object...**
-64. **Finish Feature...** - Finish a Git-Flow feature.
-65. **Finish Hotfix...** - Finish a Git-Flow hotfix.
-66. **Finish Release...**
-67. **Fix Case-Change...**
-68. **Fix Line-Endings...**
-69. **Forget Commit**
-70. **Full Screen**
-71. **Git-Flow...** - Configure Git-Flow.
-72. **Graph**
-73. **Hide View**
-74. **Ignore...** - Mark unversioned local files/directories to be ignored.
-75. **Index Editor** - Edit the Index state of the selected file, e.g. to decide which lines should be staged.
-76. **Initialize...**
-77. **Install...**
-78. **Integrate Develop...** - Integrate new base commits into a Git-Flow feature.
-79. **Investigate** - Investigate history line-wise with DeepGit.
-80. **License Agreement**
-81. **Lock**
-82. **Log** - Show the history for selected file or directory.
-83. **Log File Monitor Events**
-84. **Log File Monitor State**
-85. **Log Open Repositories**
-86. **Main Perspective** - Switch to the Main perspective.
-87. **Mark HEAD as Bad**
-88. **Mark HEAD as Good**
-89. **Mark Resolved**
-90. **Mark top commits with @ai marker**
-91. **Maximize**
-92. **Maximize View**
-93. **Merge...** - Merge changes from other branches.
-94. **Minimize**
-95. **Modify...**
-96. **Move or Rename...**
-97. **New Window**
-98. **Next Change** - Go to next change.
-99. **Next Comment**
-100. **Online Documentation**
-101. **Open from Working Tree**
-102. **Output**
-103. **Preferences**
-104. **Previous Change** - Go to previous change.
-105. **Previous Comment**
-106. **Properties...**
-107. **Prune Obsolete Worktrees...**
-108. **Prune...**
-109. **Pull...** - Fetch commits from a remote repository and (optionally) integrate them with possible local commits.
-110. **Push** - Push local commits to the remote origin repository.
-111. **Push To...** - Push local commits to a remote repository, allowing to choose the target repository.
-112. **Push Up To...**
-113. **Push...**
-114. **Rebase Interactive From...**
-115. **Rebase...** - Apply commits from your current branch to the selected commit.
-116. **Recreate Conflict**
-117. **Refresh** - Refresh the log view.
-118. **Register...**
-119. **Remove Worktree...**
-120. **Remove...** - Remove selected files or directories from repository.
-121. **Rename Stash...**
-122. **Rename...**
-123. **Repositories**
-124. **Repository**
-125. **Rerun Thoroughly**
-126. **Reset**
-127. **Reset Advanced...** - Reset current branch (HEAD) to another commit and keep the difference in Index or Working Tree.
-128. **Reset Perspective**
-129. **Reset...** - Reset current branch (HEAD) to another commit.
-130. **Reveal**
-131. **Reveal Commit**
-132. **Revert...** - Undo the changes of an existing commit by 'reverse' merging it.
-133. **Review Perspective** - Switch to the Review perspective.
-134. **Rollback To...**
-135. **Run GC**
-136. **Run Garbage Collector...**
-137. **Save As...**
-138. **Search for Repositories...** - Search for existing repositories.
-139. **Select Child Commit**
-140. **Select Parent Commit**
-141. **Set Anchor Commit**
-142. **Set Depth...**
-143. **Set Tracked Branch...**
-144. **Settings...**
-145. **Show Changes** - Open the file compare for the selected file.
-146. **Show Closed Pull Requests**
-147. **Show Standard Window**
-148. **Show Toolbar**
-149. **Show Working Tree Window**
-150. **Skip...**
-151. **SmartGit Website**
-152. **Split Off Files...**
-153. **Split...**
-154. **Squash...**
-155. **Stage** - Store working tree files in the index to prepare the next commit.
-156. **Start Feature...** - Start a new Git-Flow feature.
-157. **Start Hotfix...** - Start a new Git-Flow hotfix.
-158. **Start Release...**
-159. **Start Support Branch...**
-160. **Start...**
-161. **Starting Tracing Refreshing**
-162. **Stash All...** - Stash current local changes.
-163. **Stash Selection...**
-164. **Step**
-165. **Stop Tracking...**
-166. **Swap**
-167. **Sync** - Sync with remote server.
-168. **Synchronize...**
-169. **Take Ours**
-170. **Take Theirs**
-171. **Toggle 'Assume Unchanged'**
-172. **Toggle 'Skip Worktree'**
-173. **Track...**
-174. **Undo Last Commit...**
-175. **Unlock**
-176. **Unregister...**
-177. **Unstage** - Remove staged changes from index.
-178. **Use Message for Commit**
-179. **User**
+1. **Abort** - [Branch Operations](Manual/GUI/Branch/index.md)
+2. **About SmartGit** - [Main Windows](Manual/GUI/Main-Windows.md)
+3. **Access Hosting Providers** - [Integrated Cloning](Manual/Integrations/Integrated-Cloning.md)
+4. **Add Branch...** - Add a new branch for the current commit. [Manipulating Branches and Tags](Manual/GUI/Branch/Manipulating-branches-tags.md)
+5. **Add Comment...** - [Pull Request Comments](Manual/Integrations/Integrated-PullRequest-Comments.md)
+6. **Add Group...** - [Repositories View](Manual/GUI/Repositories-View.md)
+7. **Add Tag...** - Add a new tag for the current commit. [Manipulating Branches and Tags](Manual/GUI/Branch/Manipulating-branches-tags.md)
+8. **Add Worktree...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+9. **Add or Create...** - Add or create a new repository. [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+10. **Add...** - [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+11. **Apply Stash...** - Reapply local changes from a stash. [Stash](Manual/GUI/Stash.md)
+12. **Blame** - Show a blame (annotated) view of the selected file. [Blame](Manual/GUI/Blame.md)
+13. **Branches** - [Branches View](Manual/GUI/Branches-view.md)
+14. **Changes** - [Changes View](Manual/GUI/Changes-View.md)
+15. **Check Out...** - Check out an existing commit. [Check Out](Manual/GUI/Branch/Check-Out.md)
+16. **Check for Latest Build...** - [Main Windows](Manual/GUI/Main-Windows.md)
+17. **Check for New Version...** - [Main Windows](Manual/GUI/Main-Windows.md)
+18. **Cherry-Pick...** - Cherry-pick commits from other branches. [Cherry-Pick](Manual/GUI/Branch/Cherry-Pick.md)
+19. **Clean Working Tree...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+20. **Clear Output** - Clear output pane. [Log Window](Manual/GUI/Log-Window.md)
+21. **Clone...** - Clone a new repository. [Clone](Manual/GUI/Repository/Clone.md)
+22. **Close** - [Log Window](Manual/GUI/Log-Window.md)
+23. **Close Repository** - [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+24. **Comments** - [Pull Request Comments](Manual/Integrations/Integrated-PullRequest-Comments.md)
+25. **Commit** - [Committing](Manual/GUI/Committing.md)
+26. **Commit...** - Commit local changes. [Committing](Manual/GUI/Committing.md)
+27. **Compare** - [Changes View](Manual/GUI/Changes-View.md)
+28. **Compare with Working Tree...** - [Changes View](Manual/GUI/Changes-View.md)
+29. **Configure Toolbar...** - [User Interface Preferences](Manual/GUI/Preferences/User-Interface.md)
+30. **Configure...** - [Preferences](Manual/GUI/Preferences/index.md)
+31. **Conflict Solver** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+32. **Contact Support...** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+33. **Continue** - [Branch Operations](Manual/GUI/Branch/index.md)
+34. **Copy ID** - [Commit View](Manual/GUI/Commit-View.md)
+35. **Copy Message** - [Commit View](Manual/GUI/Commit-View.md)
+36. **Copy Name** - [Log Window](Manual/GUI/Log-Window.md)
+37. **Copy Path** - [Log Window](Manual/GUI/Log-Window.md)
+38. **Copy Relative Path** - [Log Window](Manual/GUI/Log-Window.md)
+39. **Create Heap Dump** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+40. **Create Periodical Thread Dumps** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+41. **Create Pull Request...** - [Integrated Pull Requests](Manual/Integrations/Integrated-PullRequests.md)
+42. **Deactivate...** - [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+43. **Debug Log** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+44. **Deinit...** - [Submodules](Manual/GUI/Repository/Submodules.md)
+45. **Delete...** - [Manipulating Branches and Tags](Manual/GUI/Branch/Manipulating-branches-tags.md)
+46. **Discard...** - Discard local changes. [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+47. **Drop Stash...** - Drop one or more stashes from the repository. [Stash](Manual/GUI/Stash.md)
+48. **Dump Database** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+49. **Edit Author...** - [Committing](Manual/GUI/Committing.md)
+50. **Edit File** - [Log Window](Manual/GUI/Log-Window.md)
+51. **Edit Ignore File...** - [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+52. **Edit Message...** - [Committing](Manual/GUI/Committing.md)
+53. **Exit** - [Main Windows](Manual/GUI/Main-Windows.md)
+54. **Fast-Forward Merge** - [Merge](Manual/GUI/Branch/Merge.md)
+55. **Feature Requests** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+56. **Fetch** - Fetch commits from current remote repository. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+57. **Fetch All** - Fetch commits from all remote repositories. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+58. **Fetch More...** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+59. **Files** - [Log Window](Manual/GUI/Log-Window.md)
+60. **Filter Commits** - [Log Window](Manual/GUI/Log-Window.md)
+61. **Filter Files** - [Log Window](Manual/GUI/Log-Window.md)
+62. **Find Command...** - [Commands](Manual/GUI/Preferences/Commands.md)
+63. **Find Object...** - [Graph View](Manual/GUI/Graph-View.md)
+64. **Finish Feature...** - Finish a Git-Flow feature. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+65. **Finish Hotfix...** - Finish a Git-Flow hotfix. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+66. **Finish Release...** - [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+67. **Fix Case-Change...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+68. **Fix Line-Endings...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+69. **Forget Commit** - [Log Window](Manual/GUI/Log-Window.md)
+70. **Full Screen** - [Main Windows](Manual/GUI/Main-Windows.md)
+71. **Git-Flow...** - Configure Git-Flow. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+72. **Graph** - [Graph View](Manual/GUI/Graph-View.md)
+73. **Hide View** - [Log Window](Manual/GUI/Log-Window.md)
+74. **Ignore...** - Mark unversioned local files/directories to be ignored. [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+75. **Index Editor** - Edit the Index state of the selected file, e.g. to decide which lines should be staged. [Stage, Unstage and Index Editor](Manual/GUI/Stage-Unstage-IndexEditor.md)
+76. **Initialize...** - [Submodules](Manual/GUI/Repository/Submodules.md)
+77. **Install...** - [Installation and Files](Manual/Installation/Installation-and-Files.md)
+78. **Integrate Develop...** - Integrate new base commits into a Git-Flow feature. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+79. **Investigate** - Investigate history line-wise with DeepGit. [Investigate](Manual/GUI/Investigate.md)
+80. **License Agreement** - [Licensing](Manual/Licensing/index.md)
+81. **Lock** - [Git LFS](Manual/Integrations/Git-LFS.md)
+82. **Log** - Show the history for selected file or directory. [Log](Manual/GUI/Log.md)
+83. **Log File Monitor Events** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+84. **Log File Monitor State** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+85. **Log Open Repositories** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+86. **Main Perspective** - Switch to the Main perspective. [Log Window](Manual/GUI/Log-Window.md)
+87. **Mark HEAD as Bad** - [Bisect](Manual/GUI/Bisect.md)
+88. **Mark HEAD as Good** - [Bisect](Manual/GUI/Bisect.md)
+89. **Mark Resolved** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+90. **Mark top commits with @ai marker** - [AI Commit Annotations](Manual/GUI/AI-Commit-Annotations.md)
+91. **Maximize** - [Main Windows](Manual/GUI/Main-Windows.md)
+92. **Maximize View** - [Log Window](Manual/GUI/Log-Window.md)
+93. **Merge...** - Merge changes from other branches. [Merge](Manual/GUI/Branch/Merge.md)
+94. **Minimize** - [Main Windows](Manual/GUI/Main-Windows.md)
+95. **Modify...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+96. **Move or Rename...** - [Moving and Deleting](Manual/GUI/Moving-Deleting.md)
+97. **New Window** - [Main Windows](Manual/GUI/Main-Windows.md)
+98. **Next Change** - Go to next change. [Changes View](Manual/GUI/Changes-View.md)
+99. **Next Comment** - [Pull Request Comments](Manual/Integrations/Integrated-PullRequest-Comments.md)
+100. **Online Documentation** - [Main Windows](Manual/GUI/Main-Windows.md)
+101. **Open from Working Tree** - [Log Window](Manual/GUI/Log-Window.md)
+102. **Output** - [Log Window](Manual/GUI/Log-Window.md)
+103. **Preferences** - [Preferences](Manual/GUI/Preferences/index.md)
+104. **Previous Change** - Go to previous change. [Changes View](Manual/GUI/Changes-View.md)
+105. **Previous Comment** - [Pull Request Comments](Manual/Integrations/Integrated-PullRequest-Comments.md)
+106. **Properties...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+107. **Prune Obsolete Worktrees...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+108. **Prune...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+109. **Pull...** - Fetch commits from a remote repository and (optionally) integrate them with possible local commits. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+110. **Push** - Push local commits to the remote origin repository. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+111. **Push To...** - Push local commits to a remote repository, allowing to choose the target repository. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+112. **Push Up To...** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+113. **Push...** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+114. **Rebase Interactive From...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+115. **Rebase...** - Apply commits from your current branch to the selected commit. [Rebase](Manual/GUI/Branch/Rebase.md)
+116. **Recreate Conflict** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+117. **Refresh** - Refresh the log view. [Log](Manual/GUI/Log.md)
+118. **Register...** - [Licensing](Manual/Licensing/index.md)
+119. **Remove Worktree...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+120. **Remove...** - Remove selected files or directories from repository. [Moving and Deleting](Manual/GUI/Moving-Deleting.md)
+121. **Rename Stash...** - [Stash](Manual/GUI/Stash.md)
+122. **Rename...** - [Manipulating Branches and Tags](Manual/GUI/Branch/Manipulating-branches-tags.md)
+123. **Repositories** - [Repositories View](Manual/GUI/Repositories-View.md)
+124. **Repository** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+125. **Rerun Thoroughly** - [Log Window](Manual/GUI/Log-Window.md)
+126. **Reset** - [Branch Operations](Manual/GUI/Branch/index.md)
+127. **Reset Advanced...** - Reset current branch (HEAD) to another commit and keep the difference in Index or Working Tree. [Branch Operations](Manual/GUI/Branch/index.md)
+128. **Reset Perspective** - [Log Window](Manual/GUI/Log-Window.md)
+129. **Reset...** - Reset current branch (HEAD) to another commit. [Branch Operations](Manual/GUI/Branch/index.md)
+130. **Reveal** - [Log Window](Manual/GUI/Log-Window.md)
+131. **Reveal Commit** - [Log Window](Manual/GUI/Log-Window.md)
+132. **Revert...** - Undo the changes of an existing commit by 'reverse' merging it. [Revert](Manual/GUI/Branch/Revert.md)
+133. **Review Perspective** - Switch to the Review perspective. [Log Window](Manual/GUI/Log-Window.md)
+134. **Rollback To...** - [Branch Operations](Manual/GUI/Branch/index.md)
+135. **Run GC** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+136. **Run Garbage Collector...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+137. **Save As...** - [Log Window](Manual/GUI/Log-Window.md)
+138. **Search for Repositories...** - Search for existing repositories. [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+139. **Select Child Commit** - [Graph View](Manual/GUI/Graph-View.md)
+140. **Select Parent Commit** - [Graph View](Manual/GUI/Graph-View.md)
+141. **Set Anchor Commit** - [Log Window](Manual/GUI/Log-Window.md)
+142. **Set Depth...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+143. **Set Tracked Branch...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+144. **Settings...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+145. **Show Changes** - Open the file compare for the selected file. [Changes View](Manual/GUI/Changes-View.md)
+146. **Show Closed Pull Requests** - [Integrated Pull Requests](Manual/Integrations/Integrated-PullRequests.md)
+147. **Show Standard Window** - [Standard Window](Manual/GUI/Standard-Window.md)
+148. **Show Toolbar** - [User Interface Preferences](Manual/GUI/Preferences/User-Interface.md)
+149. **Show Working Tree Window** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+150. **Skip...** - [Rebase](Manual/GUI/Branch/Rebase.md)
+151. **SmartGit Website** - [Main Windows](Manual/GUI/Main-Windows.md)
+152. **Split Off Files...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+153. **Split...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+154. **Squash...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+155. **Stage** - Store working tree files in the index to prepare the next commit. [Stage, Unstage and Index Editor](Manual/GUI/Stage-Unstage-IndexEditor.md)
+156. **Start Feature...** - Start a new Git-Flow feature. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+157. **Start Hotfix...** - Start a new Git-Flow hotfix. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+158. **Start Release...** - [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+159. **Start Support Branch...** - [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+160. **Start...** - [Bisect](Manual/GUI/Bisect.md)
+161. **Starting Tracing Refreshing** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+162. **Stash All...** - Stash current local changes. [Stash](Manual/GUI/Stash.md)
+163. **Stash Selection...** - [Stash](Manual/GUI/Stash.md)
+164. **Step** - [Bisect](Manual/GUI/Bisect.md)
+165. **Stop Tracking...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+166. **Swap** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+167. **Sync** - Sync with remote server. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+168. **Synchronize...** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+169. **Take Ours** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+170. **Take Theirs** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+171. **Toggle 'Assume Unchanged'** - [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+172. **Toggle 'Skip Worktree'** - [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+173. **Track...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+174. **Undo Last Commit...** - [Committing](Manual/GUI/Committing.md)
+175. **Unlock** - [Git LFS](Manual/Integrations/Git-LFS.md)
+176. **Unregister...** - [Submodules](Manual/GUI/Repository/Submodules.md)
+177. **Unstage** - Remove staged changes from index. [Stage, Unstage and Index Editor](Manual/GUI/Stage-Unstage-IndexEditor.md)
+178. **Use Message for Commit** - [Committing](Manual/GUI/Committing.md)
+179. **User** - [Preferences](Manual/GUI/Preferences/index.md)
 
 ## Working Tree Window Actions
 
-1. **Abort**
-2. **About SmartGit**
-3. **Access Hosting Providers**
-4. **Add Branch...** - Add a new branch for the current commit.
-5. **Add Group...**
-6. **Add Tag...** - Add a new tag for the current commit.
-7. **Add Worktree...**
-8. **Add or Create...** - Add or create a new repository.
-9. **Add...**
-10. **Apply Stash...** - Reapply local changes from a stash.
-11. **Blame** - Show a blame (annotated) view of the selected file.
-12. **Branches**
-13. **Changes**
-14. **Check Out...** - Check out an existing commit.
-15. **Check for Latest Build...**
-16. **Check for New Version...**
-17. **Cherry-Pick...** - Cherry-pick commits from other branches.
-18. **Clean Working Tree...**
-19. **Clear Output** - Clear output pane.
-20. **Clone...** - Clone a new repository.
-21. **Close**
-22. **Close Repository**
-23. **Commit**
-24. **Commit...** - Commit local changes.
-25. **Compare**
-26. **Configure Toolbar...**
-27. **Configure...**
-28. **Conflict Solver**
-29. **Contact Support...**
-30. **Continue**
-31. **Copy ID**
-32. **Copy Message**
-33. **Copy Name**
-34. **Copy Path**
-35. **Copy Relative Path**
-36. **Create Heap Dump**
-37. **Create Periodical Thread Dumps**
-38. **Create Pull Request...**
-39. **Deactivate...**
-40. **Deinit...**
-41. **Delete...**
-42. **Discard...** - Discard local changes.
-43. **Drop Stash...** - Drop one or more stashes from the repository.
-44. **Edit Author...**
-45. **Edit Ignore File...**
-46. **Edit Message...**
-47. **Exit**
-48. **Fast-Forward Merge**
-49. **Feature Requests**
-50. **Fetch** - Fetch commits from current remote repository.
-51. **Fetch All** - Fetch commits from all remote repositories.
-52. **Fetch More...**
-53. **Files**
-54. **Files from Subdirectories** - If selected, files from subdirectories are shown.
-55. **Filter Files**
-56. **Find Command...**
-57. **Find Object...**
-58. **Finish Feature...** - Finish a Git-Flow feature.
-59. **Finish Hotfix...** - Finish a Git-Flow hotfix.
-60. **Finish Release...**
-61. **Fix Case-Change...**
-62. **Fix Line-Endings...**
-63. **Full Screen**
-64. **Git-Flow...** - Configure Git-Flow.
-65. **Hide View**
-66. **Ignore...** - Mark unversioned local files/directories to be ignored.
-67. **Index Editor** - Edit the Index state of the selected file, e.g. to decide which lines should be staged.
-68. **Initialize...**
-69. **Install...**
-70. **Integrate Develop...** - Integrate new base commits into a Git-Flow feature.
-71. **Investigate** - Investigate history line-wise with DeepGit.
-72. **Journal**
-73. **License Agreement**
-74. **Lock**
-75. **Log** - Show the history for selected file or directory.
-76. **Log File Monitor Events**
-77. **Log File Monitor State**
-78. **Log Open Repositories**
-79. **Main Perspective** - Switch to the Main perspective.
-80. **Mark HEAD as Bad**
-81. **Mark HEAD as Good**
-82. **Mark Resolved**
-83. **Mark top commits with @ai marker**
-84. **Maximize**
-85. **Maximize View**
-86. **Merge...** - Merge changes from other branches.
-87. **Minimize**
-88. **Modify...**
-89. **Move or Rename...**
-90. **New Window**
-91. **Next Change** - Go to next change.
-92. **Online Documentation**
-93. **Open**
-94. **Output**
-95. **Preferences**
-96. **Previous Change** - Go to previous change.
-97. **Properties...**
-98. **Prune Obsolete Worktrees...**
-99. **Prune...**
-100. **Pull...** - Fetch commits from a remote repository and (optionally) integrate them with possible local commits.
-101. **Push** - Push local commits to the remote origin repository.
-102. **Push To...** - Push local commits to a remote repository, allowing to choose the target repository.
-103. **Push Up To...**
-104. **Push...**
-105. **Rebase Interactive From...**
-106. **Rebase...** - Apply commits from your current branch to the selected commit.
-107. **Recreate Conflict**
-108. **Refresh** - Refresh local state.
-109. **Register...**
-110. **Remove Worktree...**
-111. **Remove...** - Remove selected files or directories from repository.
-112. **Rename Stash...**
-113. **Rename...**
-114. **Repositories**
-115. **Repository**
-116. **Reset Advanced...** - Reset current branch (HEAD) to another commit and keep the difference in Index or Working Tree.
-117. **Reset Perspective**
-118. **Reset...** - Reset current branch (HEAD) to another commit.
-119. **Revert...** - Undo the changes of an existing commit by 'reverse' merging it.
-120. **Review Perspective** - Switch to the Review perspective.
-121. **Run GC**
-122. **Run Garbage Collector...**
-123. **Search for Repositories...** - Search for existing repositories.
-124. **Select Committable Files**
-125. **Select Directory**
-126. **Select Repository Root**
-127. **Separate Working Tree and Index** - If selected and Index as well as Working Tree changes are available, show them separately.
-128. **Set Depth...**
-129. **Set Tracked Branch...**
-130. **Settings...**
-131. **Show Assume-Unchanged Files** - If selected, files having the 'assume-unchanged' flag will be shown.
-132. **Show Changes** - Open the file compare for the selected file.
-133. **Show Files From Submodules** - If selected, files from submodules will be shown.
-134. **Show Ignored Files** - If selected, ignored files will be shown.
-135. **Show Log Window** - Show the history for the whole repository.
-136. **Show Rename Source Files** - If selected, removed/missing source files of detected renames will be shown.
-137. **Show Skipped Files** - If selected, skipped files will be shown.
-138. **Show Standard Window**
-139. **Show Toolbar**
-140. **Show Unchanged Files** - If selected, unchanged files will be shown.
-141. **Show Unversioned Files** - If selected, not yet version controlled files will be shown.
-142. **Skip...**
-143. **SmartGit Website**
-144. **Split...**
-145. **Squash...**
-146. **Stage** - Store working tree files in the index to prepare the next commit.
-147. **Start Feature...** - Start a new Git-Flow feature.
-148. **Start Hotfix...** - Start a new Git-Flow hotfix.
-149. **Start Release...**
-150. **Start Support Branch...**
-151. **Start...**
-152. **Starting Tracing Refreshing**
-153. **Stash All...** - Stash current local changes.
-154. **Stash Selection...**
-155. **Step**
-156. **Stop Tracking...**
-157. **Sync**
-158. **Synchronize...**
-159. **Take Ours**
-160. **Take Theirs**
-161. **Toggle 'Assume Unchanged'**
-162. **Toggle 'Skip Worktree'**
-163. **Track...**
-164. **Undo Last Commit...**
-165. **Unlock**
-166. **Unregister...**
-167. **Unstage** - Remove staged changes from index.
-168. **User**
+1. **Abort** - [Branch Operations](Manual/GUI/Branch/index.md)
+2. **About SmartGit** - [Main Windows](Manual/GUI/Main-Windows.md)
+3. **Access Hosting Providers** - [Integrated Cloning](Manual/Integrations/Integrated-Cloning.md)
+4. **Add Branch...** - Add a new branch for the current commit. [Manipulating Branches and Tags](Manual/GUI/Branch/Manipulating-branches-tags.md)
+5. **Add Group...** - [Repositories View](Manual/GUI/Repositories-View.md)
+6. **Add Tag...** - Add a new tag for the current commit. [Manipulating Branches and Tags](Manual/GUI/Branch/Manipulating-branches-tags.md)
+7. **Add Worktree...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+8. **Add or Create...** - Add or create a new repository. [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+9. **Add...** - [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+10. **Apply Stash...** - Reapply local changes from a stash. [Stash](Manual/GUI/Stash.md)
+11. **Blame** - Show a blame (annotated) view of the selected file. [Blame](Manual/GUI/Blame.md)
+12. **Branches** - [Branches View](Manual/GUI/Branches-view.md)
+13. **Changes** - [Changes View](Manual/GUI/Changes-View.md)
+14. **Check Out...** - Check out an existing commit. [Check Out](Manual/GUI/Branch/Check-Out.md)
+15. **Check for Latest Build...** - [Main Windows](Manual/GUI/Main-Windows.md)
+16. **Check for New Version...** - [Main Windows](Manual/GUI/Main-Windows.md)
+17. **Cherry-Pick...** - Cherry-pick commits from other branches. [Cherry-Pick](Manual/GUI/Branch/Cherry-Pick.md)
+18. **Clean Working Tree...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+19. **Clear Output** - Clear output pane. [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+20. **Clone...** - Clone a new repository. [Clone](Manual/GUI/Repository/Clone.md)
+21. **Close** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+22. **Close Repository** - [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+23. **Commit** - [Committing](Manual/GUI/Committing.md)
+24. **Commit...** - Commit local changes. [Committing](Manual/GUI/Committing.md)
+25. **Compare** - [Changes View](Manual/GUI/Changes-View.md)
+26. **Configure Toolbar...** - [User Interface Preferences](Manual/GUI/Preferences/User-Interface.md)
+27. **Configure...** - [Preferences](Manual/GUI/Preferences/index.md)
+28. **Conflict Solver** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+29. **Contact Support...** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+30. **Continue** - [Branch Operations](Manual/GUI/Branch/index.md)
+31. **Copy ID** - [Commit View](Manual/GUI/Commit-View.md)
+32. **Copy Message** - [Commit View](Manual/GUI/Commit-View.md)
+33. **Copy Name** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+34. **Copy Path** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+35. **Copy Relative Path** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+36. **Create Heap Dump** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+37. **Create Periodical Thread Dumps** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+38. **Create Pull Request...** - [Integrated Pull Requests](Manual/Integrations/Integrated-PullRequests.md)
+39. **Deactivate...** - [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+40. **Deinit...** - [Submodules](Manual/GUI/Repository/Submodules.md)
+41. **Delete...** - [Moving and Deleting](Manual/GUI/Moving-Deleting.md)
+42. **Discard...** - Discard local changes. [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+43. **Drop Stash...** - Drop one or more stashes from the repository. [Stash](Manual/GUI/Stash.md)
+44. **Edit Author...** - [Committing](Manual/GUI/Committing.md)
+45. **Edit Ignore File...** - [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+46. **Edit Message...** - [Committing](Manual/GUI/Committing.md)
+47. **Exit** - [Main Windows](Manual/GUI/Main-Windows.md)
+48. **Fast-Forward Merge** - [Merge](Manual/GUI/Branch/Merge.md)
+49. **Feature Requests** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+50. **Fetch** - Fetch commits from current remote repository. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+51. **Fetch All** - Fetch commits from all remote repositories. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+52. **Fetch More...** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+53. **Files** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+54. **Files from Subdirectories** - If selected, files from subdirectories are shown. [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+55. **Filter Files** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+56. **Find Command...** - [Commands](Manual/GUI/Preferences/Commands.md)
+57. **Find Object...** - [Graph View](Manual/GUI/Graph-View.md)
+58. **Finish Feature...** - Finish a Git-Flow feature. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+59. **Finish Hotfix...** - Finish a Git-Flow hotfix. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+60. **Finish Release...** - [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+61. **Fix Case-Change...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+62. **Fix Line-Endings...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+63. **Full Screen** - [Main Windows](Manual/GUI/Main-Windows.md)
+64. **Git-Flow...** - Configure Git-Flow. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+65. **Hide View** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+66. **Ignore...** - Mark unversioned local files/directories to be ignored. [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+67. **Index Editor** - Edit the Index state of the selected file, e.g. to decide which lines should be staged. [Stage, Unstage and Index Editor](Manual/GUI/Stage-Unstage-IndexEditor.md)
+68. **Initialize...** - [Submodules](Manual/GUI/Repository/Submodules.md)
+69. **Install...** - [Installation and Files](Manual/Installation/Installation-and-Files.md)
+70. **Integrate Develop...** - Integrate new base commits into a Git-Flow feature. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+71. **Investigate** - Investigate history line-wise with DeepGit. [Investigate](Manual/GUI/Investigate.md)
+72. **Journal** - [Journal View](Manual/GUI/Journal-View.md)
+73. **License Agreement** - [Licensing](Manual/Licensing/index.md)
+74. **Lock** - [Git LFS](Manual/Integrations/Git-LFS.md)
+75. **Log** - Show the history for selected file or directory. [Log](Manual/GUI/Log.md)
+76. **Log File Monitor Events** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+77. **Log File Monitor State** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+78. **Log Open Repositories** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+79. **Main Perspective** - Switch to the Main perspective. [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+80. **Mark HEAD as Bad** - [Bisect](Manual/GUI/Bisect.md)
+81. **Mark HEAD as Good** - [Bisect](Manual/GUI/Bisect.md)
+82. **Mark Resolved** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+83. **Mark top commits with @ai marker** - [AI Commit Annotations](Manual/GUI/AI-Commit-Annotations.md)
+84. **Maximize** - [Main Windows](Manual/GUI/Main-Windows.md)
+85. **Maximize View** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+86. **Merge...** - Merge changes from other branches. [Merge](Manual/GUI/Branch/Merge.md)
+87. **Minimize** - [Main Windows](Manual/GUI/Main-Windows.md)
+88. **Modify...** - [Local Operations on the Working Tree](Manual/GUI/Local-Operations-on-the-Working-Tree.md)
+89. **Move or Rename...** - [Moving and Deleting](Manual/GUI/Moving-Deleting.md)
+90. **New Window** - [Main Windows](Manual/GUI/Main-Windows.md)
+91. **Next Change** - Go to next change. [Changes View](Manual/GUI/Changes-View.md)
+92. **Online Documentation** - [Main Windows](Manual/GUI/Main-Windows.md)
+93. **Open** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+94. **Output** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+95. **Preferences** - [Preferences](Manual/GUI/Preferences/index.md)
+96. **Previous Change** - Go to previous change. [Changes View](Manual/GUI/Changes-View.md)
+97. **Properties...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+98. **Prune Obsolete Worktrees...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+99. **Prune...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+100. **Pull...** - Fetch commits from a remote repository and (optionally) integrate them with possible local commits. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+101. **Push** - Push local commits to the remote origin repository. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+102. **Push To...** - Push local commits to a remote repository, allowing to choose the target repository. [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+103. **Push Up To...** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+104. **Push...** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+105. **Rebase Interactive From...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+106. **Rebase...** - Apply commits from your current branch to the selected commit. [Rebase](Manual/GUI/Branch/Rebase.md)
+107. **Recreate Conflict** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+108. **Refresh** - Refresh local state. [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+109. **Register...** - [Licensing](Manual/Licensing/index.md)
+110. **Remove Worktree...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+111. **Remove...** - Remove selected files or directories from repository. [Moving and Deleting](Manual/GUI/Moving-Deleting.md)
+112. **Rename Stash...** - [Stash](Manual/GUI/Stash.md)
+113. **Rename...** - [Moving and Deleting](Manual/GUI/Moving-Deleting.md)
+114. **Repositories** - [Repositories View](Manual/GUI/Repositories-View.md)
+115. **Repository** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+116. **Reset Advanced...** - Reset current branch (HEAD) to another commit and keep the difference in Index or Working Tree. [Branch Operations](Manual/GUI/Branch/index.md)
+117. **Reset Perspective** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+118. **Reset...** - Reset current branch (HEAD) to another commit. [Branch Operations](Manual/GUI/Branch/index.md)
+119. **Revert...** - Undo the changes of an existing commit by 'reverse' merging it. [Revert](Manual/GUI/Branch/Revert.md)
+120. **Review Perspective** - Switch to the Review perspective. [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+121. **Run GC** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+122. **Run Garbage Collector...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+123. **Search for Repositories...** - Search for existing repositories. [Repositories, Directories and Files](Manual/GUI/Repository/Repositories-Directories-and-Files.md)
+124. **Select Committable Files** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+125. **Select Directory** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+126. **Select Repository Root** - [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+127. **Separate Working Tree and Index** - If selected and Index as well as Working Tree changes are available, show them separately. [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+128. **Set Depth...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+129. **Set Tracked Branch...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+130. **Settings...** - [Repository Settings](Manual/GUI/Repository/Repository-Settings.md)
+131. **Show Assume-Unchanged Files** - If selected, files having the 'assume-unchanged' flag will be shown. [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+132. **Show Changes** - Open the file compare for the selected file. [Changes View](Manual/GUI/Changes-View.md)
+133. **Show Files From Submodules** - If selected, files from submodules will be shown. [Submodules](Manual/GUI/Repository/Submodules.md)
+134. **Show Ignored Files** - If selected, ignored files will be shown. [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+135. **Show Log Window** - Show the history for the whole repository. [Log Window](Manual/GUI/Log-Window.md)
+136. **Show Rename Source Files** - If selected, removed/missing source files of detected renames will be shown. [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+137. **Show Skipped Files** - If selected, skipped files will be shown. [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+138. **Show Standard Window** - [Standard Window](Manual/GUI/Standard-Window.md)
+139. **Show Toolbar** - [User Interface Preferences](Manual/GUI/Preferences/User-Interface.md)
+140. **Show Unchanged Files** - If selected, unchanged files will be shown. [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+141. **Show Unversioned Files** - If selected, not yet version controlled files will be shown. [Working Tree Window](Manual/GUI/Working-Tree-Window.md)
+142. **Skip...** - [Rebase](Manual/GUI/Branch/Rebase.md)
+143. **SmartGit Website** - [Main Windows](Manual/GUI/Main-Windows.md)
+144. **Split...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+145. **Squash...** - [Rebase Interactive](Manual/GUI/Branch/Rebase-Interactive.md)
+146. **Stage** - Store working tree files in the index to prepare the next commit. [Stage, Unstage and Index Editor](Manual/GUI/Stage-Unstage-IndexEditor.md)
+147. **Start Feature...** - Start a new Git-Flow feature. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+148. **Start Hotfix...** - Start a new Git-Flow hotfix. [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+149. **Start Release...** - [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+150. **Start Support Branch...** - [Git-Flow](Manual/DevelopmentProcesses/Git-Flow.md)
+151. **Start...** - [Bisect](Manual/GUI/Bisect.md)
+152. **Starting Tracing Refreshing** - [Bug Reports](Manual/GUI/Bug-Reports.md)
+153. **Stash All...** - Stash current local changes. [Stash](Manual/GUI/Stash.md)
+154. **Stash Selection...** - [Stash](Manual/GUI/Stash.md)
+155. **Step** - [Bisect](Manual/GUI/Bisect.md)
+156. **Stop Tracking...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+157. **Sync** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+158. **Synchronize...** - [Synchronizing with Remote Repositories](Manual/GUI/Repository/Synchronizing-with-Remote-Repositories.md)
+159. **Take Ours** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+160. **Take Theirs** - [Conflict Solver](Manual/GUI/Branch/Conflict-Solver.md)
+161. **Toggle 'Assume Unchanged'** - [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+162. **Toggle 'Skip Worktree'** - [Ignore, Skip, AssumeUnchanged](Manual/GUI/Ignore-Skip-AssumeUnchanged.md)
+163. **Track...** - [Managing Remotes](Manual/GUI/Repository/Managing-Remotes.md)
+164. **Undo Last Commit...** - [Committing](Manual/GUI/Committing.md)
+165. **Unlock** - [Git LFS](Manual/Integrations/Git-LFS.md)
+166. **Unregister...** - [Submodules](Manual/GUI/Repository/Submodules.md)
+167. **Unstage** - Remove staged changes from index. [Stage, Unstage and Index Editor](Manual/GUI/Stage-Unstage-IndexEditor.md)
+168. **User** - [Preferences](Manual/GUI/Preferences/index.md)
